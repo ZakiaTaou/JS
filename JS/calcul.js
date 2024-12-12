@@ -1,0 +1,14 @@
+let x = 6;
+let y = 4;
+let add = x + y;
+console.log("x + y = " + add);
+let sub = x - y;
+console.log("x - y = " + sub);
+let mul = x * y;
+console.log("x * y = " + mul);
+let div = x / y;
+console.log("x / y = " + div);
+let mod = x % y;
+console.log("x % y = " + mod);
+let exp = x ** y;
+console.log("x ** y = " + exp);
