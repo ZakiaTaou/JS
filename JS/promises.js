@@ -1,5 +1,5 @@
 let promise = new Promise((resolve, reject) => {
-    let time = 1000;
+    let time = 2000;
     if(time === 2000){
         setTimeout(()=>{
             resolve("Promise resolved!");
